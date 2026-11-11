@@ -1,0 +1,6 @@
+# Golden test (tangkapan layar) dilewati saat `flutter test` biasa karena
+# hasil render font sedikit berbeda antar-OS. Perbarui gambar dengan:
+#   flutter test --tags golden --run-skipped --update-goldens
+tags:
+  golden:
+    skip: "Jalankan dengan: flutter test --tags golden --run-skipped --update-goldens"

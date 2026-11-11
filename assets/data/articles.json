@@ -1,0 +1,206 @@
+[
+  {
+    "id": "sdg-12-informasi-jujur",
+    "category": "SDG 12",
+    "featured": true,
+    "title": "Kenapa informasi yang jujur penting untuk bumi?",
+    "summary": "Klaim berlebihan mendorong pembelian yang tidak perlu. Informasi yang jujur adalah langkah awal konsumsi yang bertanggung jawab.",
+    "read_minutes": 5,
+    "icon": "leaf",
+    "tone": "accent",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Tujuan Pembangunan Berkelanjutan (SDG) nomor 12 mengajak semua orang menerapkan pola konsumsi dan produksi yang bertanggung jawab. Salah satu targetnya, target 12.8, menekankan bahwa masyarakat perlu memiliki informasi dan kesadaran yang relevan untuk gaya hidup yang berkelanjutan."
+      },
+      {
+        "type": "paragraph",
+        "text": "Di dunia skincare, klaim berlebihan seperti “hasil permanen dalam 7 hari” membuat konsumen membeli produk dengan harapan yang tidak realistis. Ketika hasilnya tidak sesuai, produk ditinggalkan dan konsumen mencoba produk lain. Akibatnya, pengeluaran bertambah dan sampah kemasan menumpuk."
+      },
+      {
+        "type": "list",
+        "heading": "Tiga kebiasaan konsumsi yang bertanggung jawab",
+        "items": [
+          {
+            "title": "Cek klaim sebelum membeli",
+            "body": "Kenali tanda klaim berlebihan dan cari penjelasan yang masuk akal."
+          },
+          {
+            "title": "Beli sesuai kebutuhan kulit",
+            "body": "Fokus pada masalah kulit yang benar-benar dialami, bukan janji iklan."
+          },
+          {
+            "title": "Habiskan sebelum membeli lagi",
+            "body": "Mengurangi produk yang terbuang dan sampah kemasan."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Klaira membantu langkah pertama: memberi gambaran apakah klaim pada sebuah iklan tergolong wajar atau berlebihan, beserta alasannya."
+      }
+    ],
+    "cover": "assets/images/articles/sdg-12-informasi-jujur.jpg"
+  },
+  {
+    "id": "enam-jenis-klaim",
+    "category": "Jenis Klaim",
+    "title": "Mengenal 6 jenis klaim berlebihan di iklan skincare",
+    "summary": "Pola klaim yang paling sering muncul di deskripsi produk e-commerce.",
+    "read_minutes": 4,
+    "icon": "file",
+    "tone": "primary",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Tidak semua klaim di iklan skincare salah. Yang perlu diwaspadai adalah klaim yang menjanjikan hasil mutlak, instan, atau seolah-olah obat. Berikut enam pola yang paling sering muncul di deskripsi produk e-commerce."
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "title": "Klaim absolut",
+            "body": "Menjanjikan hasil pasti: “100%”, “permanen”, “dijamin”."
+          },
+          {
+            "title": "Klaim medis",
+            "body": "Menyatakan dapat mengobati: “menyembuhkan jerawat”, “menghilangkan eksim”."
+          },
+          {
+            "title": "Klaim waktu tidak realistis",
+            "body": "Hasil sangat cepat: “dalam 3 hari”, “instan”."
+          },
+          {
+            "title": "Klaim otoritas tanpa sumber",
+            "body": "“Terbukti klinis”, “rekomendasi dokter” tanpa bukti yang bisa dicek."
+          },
+          {
+            "title": "Superlatif tanpa bukti",
+            "body": "“Terbaik nomor 1”, “paling ampuh” tanpa data pembanding."
+          },
+          {
+            "title": "Bahasa emosional berlebihan",
+            "body": "Huruf kapital dan seruan beruntun: “AJAIB!!!”."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Keenam pola ini menjadi fitur tekstual yang dianalisis model neurofuzzy di Klaira. Semakin banyak dan semakin kuat pola yang muncul, semakin tinggi skor overclaim sebuah iklan."
+      }
+    ],
+    "cover": "assets/images/articles/enam-jenis-klaim.jpg"
+  },
+  {
+    "id": "cek-notifikasi-bpom",
+    "category": "Tips Belanja",
+    "title": "Cara cek nomor notifikasi BPOM sebelum membeli",
+    "summary": "Langkah singkat memastikan produk kosmetik terdaftar resmi.",
+    "read_minutes": 3,
+    "icon": "shield",
+    "tone": "safe",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Produk kosmetik yang beredar resmi di Indonesia wajib memiliki nomor notifikasi dari BPOM. Nomor ini biasanya tercantum pada kemasan atau deskripsi produk."
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "title": "Temukan nomor notifikasi",
+            "body": "Cari nomor notifikasi pada kemasan, foto produk, atau deskripsi toko."
+          },
+          {
+            "title": "Buka situs Cek Produk BPOM",
+            "body": "Kunjungi cekbpom.pom.go.id melalui peramban."
+          },
+          {
+            "title": "Masukkan nomor atau nama produk",
+            "body": "Gunakan kolom pencarian untuk menemukan data produk."
+          },
+          {
+            "title": "Cocokkan data",
+            "body": "Pastikan nama produk, merek, dan produsen sama dengan yang dijual."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Nomor notifikasi menunjukkan produk terdaftar, tetapi tidak berarti semua klaim iklannya benar. Tetap periksa klaim iklan dengan kritis."
+      }
+    ],
+    "cover": "assets/images/articles/cek-notifikasi-bpom.jpg"
+  },
+  {
+    "id": "kosmetik-vs-obat",
+    "category": "Regulasi",
+    "title": "Kosmetik vs obat: di mana batasnya?",
+    "summary": "Kenapa kosmetik tidak boleh mengklaim menyembuhkan penyakit.",
+    "read_minutes": 5,
+    "icon": "scale",
+    "tone": "accent",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Kosmetik ditujukan untuk membersihkan, mewangikan, mengubah penampilan, melindungi, atau memelihara tubuh bagian luar. Obat ditujukan untuk mencegah, mendiagnosis, atau mengobati penyakit. Perbedaan tujuan inilah yang membuat klaim keduanya diatur berbeda."
+      },
+      {
+        "type": "paragraph",
+        "text": "Peraturan BPOM Nomor 18 Tahun 2024 tentang Penandaan, Promosi, dan Iklan Kosmetik menegaskan bahwa iklan kosmetik tidak boleh menyatakan seolah-olah produk adalah obat atau bertujuan mencegah penyakit."
+      },
+      {
+        "type": "list",
+        "heading": "Contoh perbandingan klaim",
+        "items": [
+          {
+            "title": "Berlebihan: “Menyembuhkan jerawat meradang”",
+            "body": "Wajar: “Membantu merawat kulit berjerawat”."
+          },
+          {
+            "title": "Berlebihan: “Mengobati eksim”",
+            "body": "Wajar: “Membantu menjaga kelembapan kulit kering”."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Jika masalah kulit terasa berat atau berkepanjangan, konsultasikan dengan tenaga kesehatan, bukan mengandalkan klaim iklan."
+      }
+    ],
+    "cover": "assets/images/articles/kosmetik-vs-obat.jpg"
+  },
+  {
+    "id": "baca-ulasan-bijak",
+    "category": "Tips Belanja",
+    "title": "Membaca ulasan produk dengan bijak",
+    "summary": "Bedakan ulasan asli dari promosi terselubung.",
+    "read_minutes": 3,
+    "icon": "search",
+    "tone": "primary",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Ulasan pembeli membantu menilai produk, tetapi tidak semua ulasan sama bergunanya. Perhatikan ulasan yang menceritakan pengalaman secara rinci."
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "title": "Utamakan ulasan dengan foto asli",
+            "body": "Foto pemakaian nyata lebih informatif daripada foto promosi."
+          },
+          {
+            "title": "Baca ulasan bintang menengah",
+            "body": "Ulasan bintang 3–4 sering memuat kelebihan dan kekurangan yang seimbang."
+          },
+          {
+            "title": "Waspadai pola kalimat yang sama",
+            "body": "Ulasan dengan kalimat serupa dalam waktu berdekatan bisa jadi tidak alami."
+          }
+        ]
+      }
+    ],
+    "cover": "assets/images/articles/baca-ulasan-bijak.jpg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "feature_id": "absolute_words",
+    "title": "Kata Absolut & Hiperbolik",
+    "short_title": "Klaim Absolut",
+    "description": "Menjanjikan hasil pasti atau mutlak.",
+    "why": "Hasil perawatan kulit dipengaruhi jenis kulit, kebiasaan, dan lingkungan, sehingga tidak ada produk yang bisa menjamin hasil 100% atau permanen. Kata absolut membuat konsumen berharap berlebihan dan mudah kecewa.",
+    "examples": ["“100%”", "“permanen”", "“dijamin”", "“ajaib”"],
+    "better_claims": ["“Membantu menyamarkan tampilan noda hitam”", "“Hasil dapat berbeda pada setiap jenis kulit”", "“Diformulasikan untuk kulit kusam”"],
+    "reference": "Peraturan BPOM No. 18 Tahun 2024 tentang Penandaan, Promosi, dan Iklan Kosmetik — informasi kosmetik harus jujur, tidak berlebihan, akurat, dan dapat dipertanggungjawabkan."
+  },
+  {
+    "feature_id": "medical_claim",
+    "title": "Klaim Medis / Terapeutik",
+    "short_title": "Klaim Medis",
+    "description": "Menyatakan produk dapat mengobati atau mencegah penyakit.",
+    "why": "Kosmetik digunakan untuk membersihkan, mewangikan, mengubah penampilan, atau memelihara kulit — bukan untuk mengobati penyakit. Kata seperti “menyembuhkan” memosisikan produk seolah-olah obat, sehingga dapat menyesatkan konsumen.",
+    "examples": ["“menyembuhkan jerawat”", "“mengobati eksim”", "“terapi kulit”"],
+    "better_claims": ["“Membantu merawat kulit berjerawat”", "“Membantu menyamarkan tampilan noda bekas jerawat”", "“Hasil dapat berbeda pada setiap jenis kulit”"],
+    "reference": "Peraturan BPOM No. 18 Tahun 2024 — penandaan, promosi, dan iklan kosmetik tidak boleh menyatakan seolah-olah produk adalah obat atau bertujuan mencegah penyakit."
+  },
+  {
+    "feature_id": "unrealistic_time",
+    "title": "Klaim Waktu Tidak Realistis",
+    "short_title": "Klaim Waktu",
+    "description": "Menjanjikan hasil dalam waktu sangat singkat.",
+    "why": "Regenerasi kulit berlangsung bertahap. Janji hasil “instan” atau “dalam 3 hari” jarang didukung bukti dan sering mendorong pembelian impulsif.",
+    "examples": ["“dalam 7 hari”", "“instan”", "“sekali pakai”"],
+    "better_claims": ["“Gunakan rutin untuk hasil optimal”", "“Membantu mencerahkan dengan pemakaian teratur”"],
+    "reference": "Peraturan BPOM No. 3 Tahun 2022 tentang Persyaratan Teknis Klaim Kosmetika — setiap klaim harus didukung bukti yang memadai."
+  },
+  {
+    "feature_id": "authority_claim",
+    "title": "Klaim Otoritas Tanpa Sumber",
+    "short_title": "Klaim Otoritas",
+    "description": "Mengutip otoritas atau uji tanpa bukti yang dapat dicek.",
+    "why": "Frasa “terbukti klinis” atau “direkomendasikan dokter” terdengar meyakinkan, tetapi tanpa sumber uji yang jelas konsumen tidak bisa memverifikasinya. Aturan BPOM juga melarang tenaga kesehatan tampil dalam iklan kosmetik.",
+    "examples": ["“terbukti klinis”", "“direkomendasikan dokter”", "“dermatologist approved”"],
+    "better_claims": ["“Telah melalui uji iritasi” (disertai keterangan uji)", "“Ternotifikasi BPOM nomor …”"],
+    "reference": "Peraturan BPOM No. 18 Tahun 2024 — iklan dan testimoni kosmetik dilarang diperankan oleh tenaga kesehatan maupun tenaga medis; klaim harus dapat dipertanggungjawabkan."
+  },
+  {
+    "feature_id": "superlative",
+    "title": "Superlatif Tanpa Bukti",
+    "short_title": "Superlatif",
+    "description": "Menyatakan keunggulan tanpa data pembanding.",
+    "why": "Klaim “terbaik nomor 1” atau “paling ampuh” membutuhkan data pembanding yang objektif. Tanpa data tersebut, klaim hanya bersifat promosi dan berpotensi menyesatkan.",
+    "examples": ["“terbaik nomor 1”", "“paling ampuh”", "“tercepat”"],
+    "better_claims": ["“Pilihan untuk kulit berminyak”", "“Diformulasikan dengan niacinamide 5%”"],
+    "reference": "Peraturan BPOM No. 3 Tahun 2022 — klaim keunggulan harus didukung bukti yang memadai."
+  },
+  {
+    "feature_id": "emotional_style",
+    "title": "Bahasa Emosional Berlebihan",
+    "short_title": "Bahasa Emosional",
+    "description": "Huruf kapital dan tanda seru beruntun.",
+    "why": "Penulisan huruf kapital dan seruan beruntun dipakai untuk memancing emosi dan urgensi. Ini bukan pelanggaran dengan sendirinya, tetapi sering muncul bersama klaim berlebihan.",
+    "examples": ["“AJAIB!!!”", "“WAJIB PUNYA”", "“VIRAL!!!”"],
+    "better_claims": ["Gunakan kalimat informatif tentang fungsi dan cara pakai produk"],
+    "reference": "Peraturan BPOM No. 18 Tahun 2024 — promosi dan iklan kosmetik harus jujur dan tidak berlebihan."
+  }
+]
